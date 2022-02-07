@@ -1,2 +1,2 @@
-# Desktop-Reinder-App
+# Desktop-Notification-Reminder-App
 Author : Prachi Chowhan
